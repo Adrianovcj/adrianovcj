@@ -8,7 +8,8 @@
   - [Bank Account Modeling](https://) <b><i>(Potentially SFW)</b></i>
 - <b>Java</b>
 - <b>C++</b>
-- SQL
+- <b>SQL<b>
+-
   - 
 
 <h2>📺 Popular YouTube Videos</h2>
