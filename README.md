@@ -7,10 +7,10 @@
 - <b>Introduction to Object-Oriented Programming (OOP) in Python 3 (Alura)</b>
   - [Bank Account Modeling](https://) <b><i>(Potentially SFW)</b></i>
 - <b>Java</b>
-  - [Bank Account Modeling]
+  - [Bank Account Modeling]()
 - <b>C++</b>
 - <b>SQL<b>
-  - [Market Database]
+  - [Market Database]()
 - 
 
 <h2>📺 Popular YouTube Videos</h2>
