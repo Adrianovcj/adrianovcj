@@ -11,7 +11,6 @@
 - <b>C++</b>
 - <b>SQL<b>
   - [Market Database]()
-- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
