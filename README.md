@@ -5,7 +5,7 @@
 - <b>Algorithms Practice (Leetcode)</b>
   - [Praciting Algos in Python]()
 - <b>Introduction to Object-Oriented Programming (OOP) in Python 3 </b>
-  - [Bank Account Modeling](https://) <b><i>(Potentially SFW)</b></i>
+  - [Bank Account Modeling](https://github.com/Adrianovcj/Bank) <b><i>(Potentially SFW)</b></i>
 - <b>Java</b>
   - [Bank Account Modeling]()
 - <b>SQL<b>
